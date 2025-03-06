@@ -2,7 +2,7 @@
 
 Submitted by: **Amshu Wagle**
 
-This web app: **Trivia about Space Exploration **
+This web app: **Trivia about Space Exploration**
 
 Time spent: **4** hours spent in total
 
@@ -28,13 +28,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7MmPaQg7Fvc/0.jpg)](https://www.youtube.com/watch?v=7MmPaQg7Fvc)
+[![Cosmic Trivia](https://img.youtube.com/vi/7MmPaQg7Fvc/0.jpg)](https://www.youtube.com/watch?v=7MmPaQg7Fvc)
 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Amshu Wagle]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
